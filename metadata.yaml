@@ -1,11 +1,16 @@
 _repo: The-Snow-Drop--13-A-Holiday-Gift_11439
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Mower, Sarah S.
     gutenberg_agent_id: '3983'
     url: http://www.gutenberg.org/2009/agents/3983
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11439#The-Snow-Drop--13-A-Holiday-Gift
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
